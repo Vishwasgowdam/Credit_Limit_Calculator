@@ -1,0 +1,4 @@
+#Credit_Limit_Calculator
+
+This is a java project to calculate credit limit of an individual , based on the credit history and 
+the transactions done in his bank account.
